@@ -1,3 +1,9 @@
+# Asterisk Migrations
+
+This repository consists of the ast-db-manage migrations from the official asterisk repository.
+
+Following the original readme:
+
 # The Asterisk(R) Open Source PBX
 ```text
         By Mark Spencer <markster@digium.com> and the Asterisk.org developer community.
